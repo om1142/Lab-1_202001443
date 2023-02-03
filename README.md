@@ -1,9 +1,9 @@
 # Lab-1_202001443
 IT314 1st Lab - Identifying Functional and Non-Functional Requirements
 
-       1.Library Information System (LIS)
+        1.Library Information System (LIS)
 
-Functional requirements(FRs)
+**Functional requirements(FRs)**
 
 First of all system should have a login interface, which requires username,password
 and the type of user.Whether the user is a member, librarian or
@@ -22,7 +22,7 @@ If there is an overdue in any books system should be able to notify user and lib
 System sholud be able to find fine or penelty for overdue books.
 Same Ids are not allowed for more than one book.
 
-Non-functional requirements(NFRs)
+**Non-functional requirements(NFRs)**
 
 Usability: The software should be user-friendly.
 The user interface should be simple enough for everyone to understand & fetch relevant data without any 
@@ -55,15 +55,15 @@ Minor modifications of software should not harm the running application.
 
 
 
-      2.  Hearing loss prevention app
+       2.  Hearing loss prevention app
 
-Scope:
+**Scope:**
 
 This system can be very useful to those people who are suffering from hearing loss disease.
 The system will be able to capture the sounds of the surrounding.
 The system would be able to differentiate between all types of sound.
 
-Features:
+**Features:**
 It sholud have a login interface for first time.
 The system displays words or sentences on the mobile screen when there is sound
 around it or the user wants to hear sound which he/she is not able to hear.
@@ -71,7 +71,7 @@ The system will have google map access to know about the traffic status near use
 It should have a voice assistant operated application.
 Users can also add customized sounds for different situations.
 
-Non-functional requirements:
+**Non-functional requirements:**
 
 Usability: The app should be user-friendly.
 The user interface should be simple enough for everyone to understand & fetch relevant data without any special training.
